@@ -9,7 +9,9 @@
           map = new google.maps.Map(document.getElementById('map'), {
             center: myLocation,
             zoom: 8
-            
+            mapTypeId: google.maps.MapTypeId.SATELLITE,
+            mapTypeControlOptions: {
+            position: google.maps.ControlPosition.BOTTOM_CENTER
           });
           
            var marker = new google.maps.Marker({
