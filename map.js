@@ -7,7 +7,7 @@
         function initMap() {
           map = new google.maps.Map(document.getElementById('map'), {
             center: liberia,
-            zoom: 50
+            zoom: 23
           });
           
            var marker = new google.maps.Marker({
