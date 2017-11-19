@@ -13,14 +13,13 @@
 
 
 #wrapper {
-			width: 850px;
+			width: 8px;
 			height: 600px;
 			background-color: pink;
 			margin:0 auto;
 			overflow: hidden;
 		}
 		#map {
-			#map {
 			width: 700px;
 			height: 500px;
 			background-color: #ccc;
