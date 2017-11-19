@@ -15,7 +15,7 @@
             position: liberia,
             map: map,
             animation: google.maps.Animation.BOUNCE,
-            icon: 'marker-256.png'
+            icon: 'pic/marker-256.png'
 
           });
 
