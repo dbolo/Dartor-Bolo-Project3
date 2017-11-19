@@ -7,13 +7,13 @@
         
         function initMap() {
           map = new google.maps.Map(document.getElementById('map'), {
-            center: Liberia,
+            center: myLocation,
             zoom: 8
             
           });
           
            var marker = new google.maps.Marker({
-            position: liberia,
+            position: myLocation,
             map: map,
             animation: google.maps.Animation.BOUNCE,
             icon: 'pic/marker-256.png'
