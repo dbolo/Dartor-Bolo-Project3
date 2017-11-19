@@ -20,7 +20,8 @@
 			overflow: hidden;
 		}
 		#map {
-			width: 500px;
+			#map {
+			width: 700px;
 			height: 500px;
 			background-color: #ccc;
 			margin: 30px auto;
