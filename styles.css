@@ -11,6 +11,10 @@
   
 }
 
+table{
+  border-collapse: collapse;
+}
+
 
 #wrapper {
 			width: 850px;
@@ -50,7 +54,7 @@ table td {
   list-style-type: none;
   padding: 0;
   overflow: hidden;
-  margin-left: 500px;
+/*  margin-left: 500px; */
 
 }
 
