@@ -88,7 +88,7 @@ h1 {
   
 }
 
-h2, h3, h4 {
+h2, h4 {
   text-align: center;
   color: #000000;
   font-weight: bold;
@@ -98,6 +98,19 @@ h2, h3, h4 {
   text-decoration: underline;
   padding-bottom: 1.222em;
 }
+
+
+h3{
+  text-align: center;
+  color: #000000;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 20px;
+  font-family: 'Roboto', serif;
+  padding-bottom: 1.222em;
+}
+
+
 }
 
 p {
