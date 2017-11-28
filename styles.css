@@ -58,7 +58,7 @@ table td {
 width: 100%;
 }
 
-#menu ul{
+#menu ul:hover{{
   
   background-color: yellow;
 }
