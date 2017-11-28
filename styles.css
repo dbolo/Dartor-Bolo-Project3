@@ -115,7 +115,7 @@ h3{
   font-style: italic;
 }
 
-h3 a:hover{
+h3:hover{
   background-color: yellow;
 }
 
