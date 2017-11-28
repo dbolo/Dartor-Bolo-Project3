@@ -127,3 +127,11 @@ ul {
   list-style-type: circle;
   list-style-position: inside;
 }
+
+
+ul {width: 50%; margin; auto;}
+li {text-align: left; list-style: none; }
+
+  p{
+    padding-left: 10px;
+  }
