@@ -1,7 +1,7 @@
 /* style sheet */
 
 #menu {
-  /*background-color: hsl(120, 100%, 50%);*\
+  background-color: hsl(120, 100%, 50%);
   position: relative;
   width: 100%;
   top: 0;
@@ -36,7 +36,6 @@ table{
 table th {
   
   text-align: center;
- /* background-color: #3a6070;*\
   color: #FFF;
   border: #ff0000;
   font-size: 20px;
