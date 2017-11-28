@@ -94,7 +94,7 @@ h1 {
 }
 
 h2, h4 {
-  text-align: center;
+  text-align: left;
   color: #000000;
   font-weight: bold;
   padding: 10px;
@@ -106,7 +106,7 @@ h2, h4 {
 
 
 h3{
-  text-align: center;
+  text-align: left;
   color: #000000;
   font-weight: bold;
   padding: 10px;
@@ -160,5 +160,5 @@ p{
 }
 
 ul {width: 50%; margin; auto;}
-li {text-align: center; list-style: none; }
+li {text-align: left; list-style: none; }
   
