@@ -58,6 +58,10 @@ table td {
 width: 100%;
 }
 
+#menu ul{
+  
+  background-color: yellow;
+}
 #video{
         display: block;
     margin: auto;
@@ -110,8 +114,11 @@ h3{
   font-style: italic;
 }
 
-
+h3:hover{
+  background-color: yellow;
 }
+
+
 
 p {
   text-align: center;
