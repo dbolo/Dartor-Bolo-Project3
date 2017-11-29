@@ -1,22 +1,22 @@
 /* style sheet */
 
-#menu {
+    #menu {
  
-  position: relative;
-  width: 100%;
-  top: 0;
-  margin-top: 20px;
-  margin-bottom: 20px;
+        position: relative;
+        width: 100%;
+        top: 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
   
   
 }
 
-table{
-  border-collapse: collapse;
-}
+    table{
+    border-collapse: collapse;
+    }
 
 
-#wrapper {
+    #wrapper {
 			width: 850px;
 			height: 600px;
 			background-color: pink;
@@ -29,63 +29,63 @@ table{
 			background-color: #ccc;
 			margin: 30px auto;
 		}
-table{
-  border-collapse: collapse;
-}
+     table{
+     border-collapse: collapse;
+    }
 
-table th {
+    table th {
   
-  text-align: center;
- background-color: #3a6070;
-  color: #FFF;
-  border: #ff0000;
-  font-size: 20px;
-}
+    text-align: center;
+    background-color: #3a6070;
+    color: #FFF;
+    border: #ff0000;
+    font-size: 20px;
+    }
 
-table td {
-  border: 10px solid #e3e3e3;
-  padding: 4px 8px;
-  font: italic;
-  font: bold;
+   table td {
+   border: 10px solid #e3e3e3;
+   padding: 4px 8px;
+   font: italic;
+   font: bold;
   
 }
 
-#menu ul {
+  #menu ul {
   list-style-type: none;
   padding: 0;
   overflow: hidden;
 /*  margin-left: 500px; */
-width: 100%;
+  width: 100%;
 }
 
-#video{
+  #video{
         display: block;
     margin: auto;
   }
 
-#menu ul li {
+  #menu ul li {
   text-align: center;
    float: left;
    width: 33.33333333%; 
-}
-#info li{
+  }
+  #info li{
   text-align: center;
-}
-#menu ul li a:hover {
+  }
+  #menu ul li a:hover {
   background-color:pink;
 }
 
-#menu ul li a {
+  #menu ul li a {
   padding: 20px;
   font-size: 20px;
   font-family: Arial,sans-serif;
   
-}
-body {
+  }
+  body {
   background-color: lightblue;
-}
+  }
 
-h1 {
+  h1 {
   text-align: center;
   color: #0000FF;
   text-transform: uppercase;
@@ -95,7 +95,7 @@ h1 {
   
 }
 
-h2{
+  h2{
   text-align: center;
   color: #000000;
   font-weight: bold;
@@ -105,7 +105,7 @@ h2{
 /*  padding-bottom: 1.222em; */
 }
 
-h4 {
+  h4 {
   text-align: left;
   color: #000000;
   font-weight: bold;
@@ -114,7 +114,7 @@ h4 {
   font-family: 'Roboto', serif;
 /*  padding-bottom: 1.222em; */
 }
-h3{
+  h3{
   text-align: left;
   color: #000000;
   font-weight: bold;
@@ -125,13 +125,13 @@ h3{
   padding-left: 95px;
 }
 
-h3:hover{
+  h3:hover{
   color: Red;
 }
 
 
 
-p {
+  p {
   text-align: center;
   margin-left: 20px;
   margin-top: 15px;
@@ -139,7 +139,7 @@ p {
   font-size: 16px;
 }
 
-img {
+  img {
   display: block;
   margin: auto;
   width: 400px;
@@ -149,7 +149,7 @@ img {
   border-radius: 8px;
 }
 
-ul {
+  ul {
   text-align: center;
   margin-left: 100px;
   margin-top: 10px;
@@ -160,44 +160,44 @@ ul {
 }
 
 
-p{
+  p{
   text-align: center;
    padding-left: 100px;
   
 }
 
-#wk1 li {
+  #wk1 li {
     text-align: center;
-}
+  }
 
-#wk ul
-{
+  #wk ul
+  {
 	width: 50%;
 	margin:auto;
   
-}
+  }
 
-li {text-align: left; list-style: none;}
+  li {text-align: left; list-style: none;}
 
-#info{text-align: center;}
+  #info{text-align: center;}
 
-#lib1
+  #lib1
 {
   text-align: left;
   font-size: 20px;
   font-style: italic
 }
 
-#lib
-{
+  #lib
+  {
   text-align: left;
   font-size: 20px;
   font-style: italic;
   margin-left: 7px;
-}
+  }
 
-#wk4
-{
+  #wk4
+  {
 	width: 50%;
 	margin:auto;
   text-align: center;
