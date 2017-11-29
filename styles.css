@@ -185,5 +185,24 @@ li {text-align: left; list-style: none;}
 {
   text-align: left;
   font-size: 20px;
-  font-size: italic
+  font-style: italic
 }
+
+#lib
+{
+  text-align: left;
+  font-size: 20px;
+  font-style: italic;
+}
+
+#wk4 ul
+{
+	width: 50%;
+	margin:auto;
+  }
+  
+  #wk3 ul{
+
+	width: 50%;
+	margin:auto;
+  }
