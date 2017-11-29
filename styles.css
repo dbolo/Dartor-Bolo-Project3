@@ -68,7 +68,9 @@ width: 100%;
    float: left;
    width: 33.33333333%; 
 }
-
+#info li{
+  text-align: center;
+}
 #menu ul li a:hover {
   background-color:pink;
 }
@@ -93,26 +95,34 @@ h1 {
   
 }
 
-h2, h4 {
+h2{
+  text-align: center;
+  color: #000000;
+  font-weight: bold;
+  padding-left: 25px;
+  font-size: 20px;
+  font-family: 'Roboto', serif;
+/*  padding-bottom: 1.222em; */
+}
+
+h4 {
   text-align: left;
   color: #000000;
   font-weight: bold;
-  padding: 10px;
+  padding: 8px;
   font-size: 20px;
   font-family: 'Roboto', serif;
-  text-decoration: underline;
-  padding-bottom: 1.222em;
+/*  padding-bottom: 1.222em; */
 }
-
-
 h3{
   text-align: left;
   color: #000000;
   font-weight: bold;
-  padding: 10px;
+ /* padding: 30px; */
   font-size: 20px;
   padding-bottom: 1.222em;
   font-style: italic;
+  padding-left: 20px;
 }
 
 h3:hover{
@@ -144,7 +154,7 @@ ul {
   margin-left: 30px;
   margin-top: 10px;
   margin-bottom: 15px;
-  padding-bottom: 10px;
+  padding-bottom: 8px;
   list-style-type: circle;
   list-style-position: inside;
 }
@@ -156,9 +166,21 @@ p{
   
 }
 
-
+ul#wk1 li {
+    text-align: center;
 }
 
-ul {width: 50%; margin; auto;}
-li {text-align: left; list-style: none; }
-  
+#wk ul
+{
+	width: 50%;
+	margin;auto;
+}
+
+li {text-align: left; list-style: none;}
+
+#info{text-align: center;}
+
+#lib
+{
+  text-align: left;
+}
