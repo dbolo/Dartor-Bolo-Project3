@@ -166,7 +166,7 @@ p{
   
 }
 
-ul#wk1 li {
+#wk1 li {
     text-align: center;
 }
 
@@ -193,16 +193,23 @@ li {text-align: left; list-style: none;}
   text-align: left;
   font-size: 20px;
   font-style: italic;
+  margin-left: 20px;
 }
 
-#wk4 ul
+#wk4
 {
 	width: 50%;
 	margin:auto;
+  text-align: center;
   }
   
   #wk3 ul{
-
+  text-align: left;
 	width: 50%;
 	margin:auto;
+  margin-left: 20px;
+  }
+  
+  #wk4 ul{
+    text-align: center;
   }
